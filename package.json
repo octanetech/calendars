@@ -1,0 +1,26 @@
+{
+  "name": "jquery-calendars",
+  "version": "2.0.1",
+  "homepage": "http://angularjs-nvd3-directives.github.io/angularjs-nvd3-directives",
+  "description": "This plugin provides support for various world calendars, including a datepicker. * Calendars: Gregorian, Julian, Taiwanese, Thai, Persian, Islamic, Umm al-Qura, Hebrew, Ethiopian, Coptic, Nepali, Mayan. * Parse and format dates in all these calendars. * Style the datepicker using one of five themes, or use any of the standard Themeroller themes. * Over 70 localisations for Gregorian/Julian calendars.",
+  "main": "jquery.calendars.js",   
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbwood/calendars.git"
+  },
+  "keywords": [
+    "calendar",
+    "date",
+    "datepicker",
+    "i18n",
+    "input",
+    "ui",
+    "validation"
+  ],
+  "author": {
+    "name": "Keith Wood"
+  },
+  "license": "http://keith-wood.name/licence.html,
+  "readmeFilename": "README.md",
+  "gitHead": "82273b2c5a38c9e5841e767da4f3252ba31927e8",  
+}
