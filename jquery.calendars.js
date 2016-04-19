@@ -808,7 +808,7 @@
 			var month = e - (e > 13.5 ? 13 : 1);
 			var year = c - (month > 2.5 ? 4716 : 4715);
 			if (year <= 0) { year--; } // No year zero
-			return this.newDate(year, month, day);
+			return this.newDate(year, month, day - 1);
 		},
 
 		/** Convert this date to a standard (Gregorian) JavaScript Date.
